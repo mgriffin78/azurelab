@@ -1,0 +1,14 @@
+/home/aritter/hellodotnetcore/bin/Debug/netcoreapp2.1/hellodotnetcore.deps.json
+/home/aritter/hellodotnetcore/bin/Debug/netcoreapp2.1/hellodotnetcore.runtimeconfig.json
+/home/aritter/hellodotnetcore/bin/Debug/netcoreapp2.1/hellodotnetcore.runtimeconfig.dev.json
+/home/aritter/hellodotnetcore/bin/Debug/netcoreapp2.1/hellodotnetcore.dll
+/home/aritter/hellodotnetcore/bin/Debug/netcoreapp2.1/hellodotnetcore.pdb
+/home/aritter/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.csprojAssemblyReference.cache
+/home/aritter/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.csproj.CoreCompileInputs.cache
+/home/aritter/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.RazorAssemblyInfo.cache
+/home/aritter/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.RazorAssemblyInfo.cs
+/home/aritter/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.AssemblyInfoInputs.cache
+/home/aritter/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.AssemblyInfo.cs
+/home/aritter/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.RazorTargetAssemblyInfo.cache
+/home/aritter/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.dll
+/home/aritter/hellodotnetcore/obj/Debug/netcoreapp2.1/hellodotnetcore.pdb
